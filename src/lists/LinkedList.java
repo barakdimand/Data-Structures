@@ -2,8 +2,8 @@ package lists;
 
 public class LinkedList<T> implements ListInterface<T>{
 	
-	private int size;
-	private Node<T> head;
+	int size;
+	Node<T> head;
 
 	/**
 	 * Establishes a new LinkedList with a pointer "head" to the empty list.
