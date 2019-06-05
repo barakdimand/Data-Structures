@@ -14,3 +14,7 @@ public class DoubleLinkedList<T> extends LinkedList<T> {
     }
 
 }
+
+    public static void main(String[] args) {
+
+    }

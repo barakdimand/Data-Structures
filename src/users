@@ -1,0 +1,9 @@
+import lists.LinkedList;
+
+public class users<T> {
+    private firstName;
+    private lastName;
+    private id;
+
+
+}
